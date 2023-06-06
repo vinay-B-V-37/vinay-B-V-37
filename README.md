@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<!--
-**vinay-ai-developer/vinay-ai-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  
-- Hi 👋 , I’m Vinay B V
-- 🌱 I’m currently pursuing 3nd year BE Degree, specilization in AI & ML
+-       I’m Vinay B V
+-   🌱 I’m currently pursuing 3nd year BE Degree, specilization in AI & ML
 *   🌍  India
 *   ✉️  bvvinay1ai@gmail.com
 *   🧠  I'm learning Machine Learning , OpenCv.
