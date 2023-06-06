@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'am VINAY B V
 
- 
--       I’m Vinay B V
+
 -   🌱 I’m currently pursuing 3nd year BE Degree, specilization in AI & ML
 *   🌍  India
 *   ✉️  bvvinay1ai@gmail.com
