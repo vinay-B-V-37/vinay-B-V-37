@@ -3,7 +3,7 @@
 
 -   🌱 I pursue a BE Degree, with specilization in AI & ML 
 -   🏢 I work on building backend systems and AI-driven features using Python, FastAPI, vector databases, and LLM integrations. I focus on clean data workflows, reliable            deployments, and making AI models useful in real applications. I’ve also worked with prompt engineering, and automating workflows using Docker and CI/CD.
-*   🌍  India
+*   🌍   Bengaluru, India
 *   ✉️  bvvinay62@gmail.com
 *   🧠  I'm learning Machine Learning , OpenCv, ComfyUI.
 *   🤝  I'm open to AI & ML, GenAI projects.
