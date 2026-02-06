@@ -1,11 +1,12 @@
 ### Hi there 👋, I'am VINAY B V
 
 
--   🌱 I’m currently pursuing 3nd year BE Degree, specilization in AI & ML
+-   🌱 I pursue a BE Degree, with specilization in AI & ML 
+-   🏢 I work on building backend systems and AI-driven features using Python, FastAPI, vector databases, and LLM integrations. I focus on clean data workflows, reliable            deployments, and making AI models useful in real applications. I’ve also worked with prompt engineering, and automating workflows using Docker and CI/CD.
 *   🌍  India
-*   ✉️  bvvinay1ai@gmail.com
-*   🧠  I'm learning Machine Learning , OpenCv.
-*   🤝  I'm open to artficial Intelligence and Machine Learning projects.
+*   ✉️  bvvinay62@gmail.com
+*   🧠  I'm learning Machine Learning , OpenCv, ComfyUI.
+*   🤝  I'm open to AI & ML, GenAI projects.
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
