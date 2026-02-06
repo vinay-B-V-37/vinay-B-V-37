@@ -1,7 +1,8 @@
 ### Hi there 👋, I'am VINAY B V
 
 
--   🌱 I pursue a BE Degree, with specilization in AI & ML 
+-   🌱 I pursue a BE Degree, with specilization in AI & ML
+-   👨‍💻 From prompts to production — building GenAI stuff that actually works — APIs, LLMs, and real-world AI
 -   🏢 I work on building backend systems and AI-driven features using Python, FastAPI, vector databases, and LLM integrations. I focus on clean data workflows, reliable            deployments, and making AI models useful in real applications. I’ve also worked with prompt engineering, and automating workflows using Docker and CI/CD.
 *   🌍   Bengaluru, India
 *   ✉️  bvvinay62@gmail.com
